@@ -2,6 +2,7 @@
 missile's ship and kos script
 
 How to install:
+
 0. (install kos mod)
 1. Place the downloaded 'Ships' folder into the kerbal space program folder (overwrite it)
 2. done
